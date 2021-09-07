@@ -1,6 +1,6 @@
 # ***Roscadora de Bornes***
 
-## Descripción
+## Descripción:
 
 La maquina de estado a realizar es en base a una roscadora de bornes. Esta misma estará subdividida en 5 estados diferentes:
 
